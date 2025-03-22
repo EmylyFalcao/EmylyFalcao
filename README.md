@@ -3,12 +3,12 @@
 ## 🛠️ Languages & Tools I've Worked With
 
 ### Data Engineering & Analytics:
-- ![Python](assets/python-logo.png) **Python**
-- ![SQL](assets/sql-logo.png) **SQL**
-- ![Power BI](assets/powerbi-logo.png) **Power BI**
-- ![Power Apps](assets/powerapps-logo.png) **Power Apps**
-- ![Azure](assets/azure-logo.png) **Azure**
-- ![SQL Server](assets/sqlserver-logo.png) **SQL Server**
+- <img src="assets/Python-logo.png" width="50" /> **Python**
+- <img src="assets/sql-logo.png" width="50" /> **SQL**
+- <img src="assets/powerbi-logo.png" width="50" /> **Power BI**
+- <img src="assets/powerapps-logo.avif" width="50" /> **Power Apps**
+- <img src="assets/azure-logo.jpg" width="50" /> **Azure**
+- <img src="assets/sqlserver-logo.svg" width="50" /> **SQL Server**
 
 ### Creative Design:
 - ![Photoshop](https://upload.wikimedia.org/wikipedia/commons/a/a5/Adobe_Photoshop_Logo_2023.png) **Photoshop**
