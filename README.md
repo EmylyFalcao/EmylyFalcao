@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-# Welcome to My GitHub Profile!
-
 ## 🛠️ Languages & Tools I've Worked With
 
 ### Data Engineering & Analytics:
-- ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) **Python**
-- ![SQL](https://upload.wikimedia.org/wikipedia/commons/d/d2/SQL_Server_Logo.png) **SQL**
-- ![Power BI](https://upload.wikimedia.org/wikipedia/commons/4/47/Power_BI_Logo.svg) **Power BI**
-- ![Power Apps](https://upload.wikimedia.org/wikipedia/commons/a/a2/PowerApps_Logo.svg) **Power Apps**
-- ![Azure](https://upload.wikimedia.org/wikipedia/commons/1/1f/Microsoft_Azure_Logo.svg) **Azure**
-- ![SQL Server](https://upload.wikimedia.org/wikipedia/commons/c/c5/SQL_Server_2019_Logo.svg) **SQL Server**
+- ![Python](assets/python-logo.png) **Python**
+- ![SQL](assets/sql-logo.png) **SQL**
+- ![Power BI](assets/powerbi-logo.png) **Power BI**
+- ![Power Apps](assets/powerapps-logo.png) **Power Apps**
+- ![Azure](assets/azure-logo.png) **Azure**
+- ![SQL Server](assets/sqlserver-logo.png) **SQL Server**
 
 ### Creative Design:
 - ![Photoshop](https://upload.wikimedia.org/wikipedia/commons/a/a5/Adobe_Photoshop_Logo_2023.png) **Photoshop**
