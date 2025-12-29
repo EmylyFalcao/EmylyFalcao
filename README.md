@@ -29,5 +29,5 @@ I am a multi-disciplinary professional specializing in **Data Analytics, Cloud E
 ---
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[EmylyFalcao]&show_icons=true&theme=radial)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmylyFalcao&show_icons=true&theme=radial)
 
