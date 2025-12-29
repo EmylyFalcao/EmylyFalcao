@@ -26,8 +26,4 @@ I am a multi-disciplinary professional specializing in **Data Analytics, Cloud E
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
 
----
-
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmylyFalcao&show_icons=true&theme=radial)
 
